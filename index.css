@@ -184,7 +184,30 @@
 .txt11{
     font-size: 50px;
     font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.txt13{
+    color: red;
+    font-size: xx-large;
+    font-weight: bolder;
 }
 .ty{
     margin: 10px 200px 10px;
+}
+.d2{
+    display: flex;
+    
+}
+.d3{
+    display: flex;
+}
+.c{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.c2{
+    margin-right: 360px;
 }
