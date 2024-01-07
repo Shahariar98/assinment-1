@@ -1,51 +1,137 @@
-.pad{
-    /* padding: 40px 40px 40px 40px; */
-}
-.bgcl{
+.bgcl {
     height: 740px;
-    width: 1620px ;
+    width: 1620px;
     background-color: #121212b3;
 }
-.txt1{
+
+.txt1 {
     color: #fff;
     font-size: 35px;
     font-weight: bolder;
     background-color: transparent;
-   text-align: center;
+    text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top:250px;
+    margin-top: 250px;
     padding: 0px;
-   
+
 }
-.txt2{
+
+.txt2 {
     color: #fff;
     font-size: 70px;
     font-weight: bolder;
     background-color: transparent;
-   text-align: center;
+    text-align: center;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     margin-bottom: 100px;
-    
-   
+
+
 }
-.bg{
+
+.bg {
+    margin-top: 50px;
     background-image: url(image/Banner\ Image.png);
     height: 740px;
-    width: 1620px ;
+    width: 1620px;
     background-repeat: none;
     background-size: cover;
     background-blend-mode: darken;
     display: flex;
 
-   
+
     align-items: center;
     justify-content: center;
     margin-right: auto;
     margin-left: auto;
+}
+
+.txt3 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    margin-top: 100px;
+}
+
+.txt4 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+.txt5 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 34px;
+    margin-top: 5px;
+}
+
+.txt6 {
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 400px;
+}
+
+.bg1 {
+    background-image: url(image/Vectorrr.png);
+    height: 740px;
+    width: 1620px;
+    background-repeat: none;
+    background-size: cover;
+    background-blend-mode: darken;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+}
+
+.bgcl1 {
+    height: 740px;
+    width: 1620px;
+    background-color: #121212b3;
+}
+
+.fg {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 150px;
+    
+}
+.txt7{
+    color: #fff;
+}
+.txt8{
+    font-size: 70px;
+    margin-top: 5px;
+}
+.btn{
+    margin-left: 20px;
+    margin-top: 40px;
+    background-color: transparent;
+    color :#fff;
+    border: none;
+    font-weight: bolder;
 }
