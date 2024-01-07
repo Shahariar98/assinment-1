@@ -192,6 +192,28 @@
     font-size: xx-large;
     font-weight: bolder;
 }
+.bdr{
+    background-color:  red;
+    border-radius: 300px;
+    padding: 10px;
+    margin: 100px;
+}
+.bdr2{
+    margin: 10px;
+}
+.txt14{
+    font-weight: 600;
+}
+.txt15{
+    font-size: 50px;
+    font-weight: 600;
+}
+.txt16{
+color: red;
+}
+.txt17{
+    text-align: center; 
+}
 .ty{
     margin: 10px 200px 10px;
 }
@@ -232,7 +254,7 @@
     color: white;
     background-color: red;
     padding: 10px;
-    border-radius: 500px ;
+    border-radius:0px 50px 50px 0px;
     border: none;
 }
 .txt12{
