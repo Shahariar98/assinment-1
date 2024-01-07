@@ -1,0 +1,51 @@
+.pad{
+    /* padding: 40px 40px 40px 40px; */
+}
+.bgcl{
+    height: 740px;
+    width: 1620px ;
+    background-color: #121212b3;
+}
+.txt1{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bolder;
+    background-color: transparent;
+   text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top:250px;
+    padding: 0px;
+   
+}
+.txt2{
+    color: #fff;
+    font-size: 70px;
+    font-weight: bolder;
+    background-color: transparent;
+   text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    
+   
+}
+.bg{
+    background-image: url(image/Banner\ Image.png);
+    height: 740px;
+    width: 1620px ;
+    background-repeat: none;
+    background-size: cover;
+    background-blend-mode: darken;
+    display: flex;
+
+   
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+}
