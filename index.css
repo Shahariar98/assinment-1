@@ -175,65 +175,90 @@
 .txt10 {
     color: red;
     font-weight: 400;
+
 }
-.ty{
+
+.ty {
     display: flex;
     justify-content: space-around;
 
 }
-.txt11{
+
+.txt11 {
     font-size: 50px;
     font-weight: 600;
     margin-top: 0px;
     margin-bottom: 0px;
 }
-.txt13{
+
+.txt13 {
     color: red;
     font-size: xx-large;
     font-weight: bolder;
 }
-.bdr{
-    background-color:  red;
+
+.bdr {
+    background-color: red;
     border-radius: 300px;
     padding: 10px;
-    margin: 100px;
-}
-.bdr2{
-    margin: 10px;
-}
-.txt14{
-    font-weight: 600;
-}
-.txt15{
-    font-size: 50px;
-    font-weight: 600;
-}
-.txt16{
-color: red;
-}
-.txt17{
-    text-align: center; 
-}
-.ty{
-    margin: 10px 200px 10px;
-}
-.d2{
-    display: flex;
     
 }
-.d3{
+
+.bdr2 {
+    margin: 10px;
+}
+
+.txt14 {
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+.txt15 {
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.txt16 {
+    color: red;
+}
+
+.txt17 {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.ty {
+    margin: 10px 200px 10px;
+}
+
+.d2 {
+    display: flex;
+
+}
+
+.d3 {
     display: flex;
 }
-.c{
+
+.c {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
 }
-.c2{
+
+.c2 {
     margin-right: 360px;
+    margin-top: 100px;
 }
-.d4{
+
+.d4 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -242,46 +267,54 @@ color: red;
     margin-left: 120px;
     margin-right: 120px;
     margin-top: 100px;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
+    padding-top: 40px;
 }
-.f1{
+
+.f1 {
     display: flex;
     background-color: red;
     padding: 0px;
     border-radius: 100px;
 }
-.bt3{
+
+.bt3 {
     color: white;
     background-color: red;
     padding: 10px;
-    border-radius:0px 50px 50px 0px;
+    border-radius: 0px 50px 50px 0px;
     border: none;
 }
-.txt12{
-    text-align: center;
+
+.txt12 {
+    text-align: start;
 }
-.ft{
+
+.ft {
     display: flex;
     justify-content: space-around;
     align-items: center;
     color: #fff;
     margin-top: 100px;
 }
-.ftr{
+
+.ftr {
     background-color: black;
     margin-top: 100px;
     padding-top: 40px;
-    padding-bottom: 200px; 
+    padding-bottom: 200px;
 }
-.ftr1{
+
+.ftr1 {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     gap: 10px;
-    
+
 }
-.im{
+
+.im {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -290,13 +323,44 @@ color: red;
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.ftr2{
+
+.ftr2 {
     display: flex;
     justify-content: space-around;
     align-items: center;
     color: #fff;
-    
+
 }
-.h{
+
+.h {
     width: 1200px;
+}
+
+.img2 {
+    height: 200px;
+    width: 360px;
+    z-index: 1;
+    margin-bottom: 120px;
+    margin-left: 200px;
+}
+
+.img6{
+    display: flex;
+    margin-left: 308px;
+    align-items: center;
+    justify-content: center;
+}
+
+.img5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt18 {
+    display: flex;
+    
+    align-items: center;
+  
 }
