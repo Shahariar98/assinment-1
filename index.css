@@ -201,7 +201,7 @@
     background-color: red;
     border-radius: 300px;
     padding: 10px;
-    
+
 }
 
 .bdr2 {
@@ -345,10 +345,16 @@
 }
 
 .img6{
+   
     display: flex;
     margin-left: 308px;
     align-items: center;
     justify-content: center;
+}
+
+.mg {
+    position: relative;
+    left: 20%;
 }
 
 .img5 {
@@ -360,7 +366,7 @@
 
 .txt18 {
     display: flex;
-    
+
     align-items: center;
-  
+
 }
